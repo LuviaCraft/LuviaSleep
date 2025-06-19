@@ -1,0 +1,5 @@
+# LuviaSleep Configuration
+default-settings:
+  notifications-enabled: true
+  sounds-enabled: true
+  health-boost-duration: 30 # Duration in seconds

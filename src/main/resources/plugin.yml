@@ -1,0 +1,13 @@
+name: LuviaSleep
+version: '1.0-DEV'
+main: gg.kite.Main
+api-version: '1.21'
+authors: [ KiteGG ]
+libraries:
+  - com.google.inject:guice:7.0.0
+  - net.kyori:adventure-api:4.21.0
+  - net.kyori:adventure-platform-bukkit:4.3.4
+commands:
+  luviasleep:
+    description: Opens the LuviaSleep configuration GUI
+    usage: /<command>
